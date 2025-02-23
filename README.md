@@ -1,7 +1,7 @@
 ## Hey! I'm Nay (. ❛ ᴗ ❛.)ノ
 
 🎓 Computer Information Systems student  
-🎮 Learning game development with LÖVE(LOVE2D)  
+🎮 Learning game development with Unity  
 💻 Exploring game development and expanding my C# and Lua knowledge.  
 🚀 Always open to learning new things and sharing my progress.  
 
@@ -20,3 +20,4 @@
 **Tools & IDEs:**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
