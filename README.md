@@ -1,13 +1,14 @@
 ## Hey! I'm Nay (. ❛ ᴗ ❛.)ノ
 
 🎓 Computer Information Systems student  
-🎮 Learning game development with Unity  
-💻 Exploring game development and expanding my C# and Lua knowledge.  
+🎮 Learning game development with Unity & Godot 
+💻 Exploring game development and expanding my C# and GDscript knowledge.  
 🚀 Always open to learning new things and sharing my progress.  
 
   
 **Languages & Frameworks:**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
@@ -23,3 +24,4 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
