@@ -1,9 +1,9 @@
 ## Hey! I'm Nay (. ❛ ᴗ ❛.)ノ
 
 🎓 Computer Information Systems student  
-🎮 Learning game development with Unity & Godot 
-💻 Exploring game development and expanding my C# and GDscript knowledge.  
-🚀 Always open to learning new things and sharing my progress.  
+🎮 Learning game development with Unity & Godot  
+💻 Exploring game development and expanding my C# and GDscript knowledge  
+🚀 Always open to learning new things and sharing my progress
 
   
 **Languages & Frameworks:**  
