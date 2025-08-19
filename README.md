@@ -2,7 +2,7 @@
 
 🎓 Computer Information Systems student  
 🎮 Learning game development with Unity & Godot  
-💻 Exploring game development and expanding my C# and GDscript knowledge  
+💻 Exploring game development and expanding my C# and GDScript knowledge  
 🚀 Always open to learning new things and sharing my progress
 
   
